@@ -7,7 +7,7 @@
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+Ivan;🚀+Creator+of+Pocket+Antigravity+IDE;⚡+Building+seamless+desktop+%26+mobile+tools;💻+Node.js+%7C+JavaScript+%7C+PowerShell+%7C+C%23" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=👋+Hi%2C+I'm+Ivan;🚀+Creator+of+Pocket+Antigravity+IDE;⚡+Building+seamless+desktop+%26+mobile+tools;💻+Node.js+%7C+JavaScript+%7C+PowerShell+%7C+C%23" alt="Typing SVG" />
 </p>
 
 <!-- Badges & Featured Project -->
@@ -22,10 +22,28 @@
 
 ---
 
-<!-- Side-by-Side Lowlighter Metrics SVGs -->
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img alt="Metrics Overview" src="https://github.com/IvanCR48/IvanCR48/blob/main/metrics.svg" width="49%">
-  <img alt="Metrics Deep Dive" src="https://github.com/IvanCR48/IvanCR48/blob/main/metrics.additional.svg" width="49%">
+<!-- Real-Time GitHub Stats Cards (Dark + Purple Theme) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IvanCR48&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e1e&title_color=A855F7&icon_color=007acc&text_color=cccccc" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanCR48&theme=tokyonight&hide_border=true&background=1e1e1e&ring=A855F7&fire=007acc&currStreakNum=A855F7&sideNums=cccccc&sideLabels=858585&dates=858585" width="49%" alt="GitHub Streak" />
+</p>
+
+<!-- Top Languages Chart -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCR48&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e1e&title_color=A855F7&text_color=cccccc" width="60%" alt="Top Languages" />
+</p>
+
+---
+
+<!-- Tech Stack Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Windows_API-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Win32" />
 </p>
 
 ---
