@@ -22,15 +22,18 @@
 
 ---
 
+<!-- Side-by-Side Lowlighter Metrics Dashboards -->
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img alt="Metrics Overview" src="./metrics.svg" width="49%">
+  <img alt="Metrics Deep Dive" src="./metrics.additional.svg" width="49%">
+</p>
+
+---
+
 <!-- Real-Time GitHub Stats Cards (Dark + Purple Theme) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IvanCR48&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e1e&title_color=A855F7&icon_color=007acc&text_color=cccccc" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanCR48&theme=tokyonight&hide_border=true&background=1e1e1e&ring=A855F7&fire=007acc&currStreakNum=A855F7&sideNums=cccccc&sideLabels=858585&dates=858585" width="49%" alt="GitHub Streak" />
-</p>
-
-<!-- Top Languages Chart -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanCR48&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e1e&title_color=A855F7&text_color=cccccc" width="60%" alt="Top Languages" />
 </p>
 
 ---
