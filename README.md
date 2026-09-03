@@ -1,13 +1,13 @@
 <!-- Header Banner (Capsule Render in Purple Gradient) -->
 <p align="center">
   <a href="https://github.com/IvanCR48/Pocket-AntiGravityIDE">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=IvanCR48&fontSize=65&fontColor=ffffff&animation=blinking&desc=Software%20Developer%20%7C%20AI%20Tooling%20%26%20Systems&descSize=20&descAlignY=70" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=IvanCR48&fontSize=65&fontColor=ffffff&animation=blinking&desc=Software%20Developer%20%7C%20AI%20Tooling%20and%20Systems&descSize=20&descAlignY=70" width="100%" />
   </a>
 </p>
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=👋+Hi%2C+I'm+Ivan;🚀+Creator+of+Pocket+Antigravity+IDE;⚡+Building+seamless+desktop+%26+mobile+tools;💻+Node.js+%7C+JavaScript+%7C+PowerShell+%7C+C%23" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=%F0%9F%91%8B+Hi%2C+I%27m+Ivan;%F0%9F%9A%80+Creator+of+Pocket+Antigravity+IDE;%E2%9A%A1+Building+seamless+desktop+%26+mobile+tools;%F0%9F%92%BB+Node.js+%7C+JavaScript+%7C+PowerShell+%7C+C%23" alt="Typing SVG" />
 </p>
 
 <!-- Badges & Featured Project -->
