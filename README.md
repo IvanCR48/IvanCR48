@@ -1,7 +1,7 @@
 <!-- Header Banner (Capsule Render in Purple Gradient) -->
 <p align="center">
-  <a href="https://github.com/IvanCR48/Pocket-AntiGravityIDE">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=IvanCR48&fontSize=65&fontColor=ffffff&animation=blinking&desc=Software%20Developer%20%7C%20AI%20Tooling%20and%20Systems&descSize=20&descAlignY=70" width="100%" />
+  <a href="https://github.com/ismaelUML/Pocket-AntiGravityIDE">
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=ismaelUML&fontSize=65&fontColor=ffffff&animation=blinking&desc=Software%20Developer%20%7C%20AI%20Tooling%20and%20Systems&descSize=20&descAlignY=70" width="100%" />
   </a>
 </p>
 
@@ -12,10 +12,10 @@
 
 <!-- Badges & Featured Project -->
 <p align="center">
-  <a href="https://github.com/IvanCR48/Pocket-AntiGravityIDE">
+  <a href="https://github.com/ismaelUML/Pocket-AntiGravityIDE">
     <img src="https://img.shields.io/badge/✨_Featured_Project-Pocket_Antigravity_IDE-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   </a>
-  <a href="https://github.com/IvanCR48?tab=repositories">
+  <a href="https://github.com/ismaelUML?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Explore-007acc?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -32,8 +32,8 @@
 
 <!-- Real-Time GitHub Stats Cards (Dark + Purple Theme) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanCR48&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e1e&title_color=A855F7&icon_color=007acc&text_color=cccccc" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanCR48&theme=tokyonight&hide_border=true&background=1e1e1e&ring=A855F7&fire=007acc&currStreakNum=A855F7&sideNums=cccccc&sideLabels=858585&dates=858585" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ismaelUML&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e1e&title_color=A855F7&icon_color=007acc&text_color=cccccc" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismaelUML&theme=tokyonight&hide_border=true&background=1e1e1e&ring=A855F7&fire=007acc&currStreakNum=A855F7&sideNums=cccccc&sideLabels=858585&dates=858585" width="49%" alt="GitHub Streak" />
 </p>
 
 ---
@@ -52,5 +52,5 @@
 ---
 
 <p align="center">
-  <sub>⭐️ Crafted with passion by <a href="https://github.com/IvanCR48">IvanCR48</a></sub>
+  <sub>⭐️ Crafted with passion by <a href="https://github.com/ismaelUML">ismaelUML</a></sub>
 </p>
